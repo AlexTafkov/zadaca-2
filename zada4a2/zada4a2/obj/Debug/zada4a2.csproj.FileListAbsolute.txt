@@ -1,0 +1,7 @@
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\bin\Debug\zada4a2.exe.config
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\bin\Debug\zada4a2.exe
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\bin\Debug\zada4a2.pdb
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\obj\Debug\zada4a2.csprojAssemblyReference.cache
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\obj\Debug\zada4a2.csproj.CoreCompileInputs.cache
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\obj\Debug\zada4a2.exe
+C:\Users\Fogy\source\repos\zada4a2\zada4a2\obj\Debug\zada4a2.pdb
